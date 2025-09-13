@@ -1,0 +1,17 @@
+﻿PromotionKey;Promotion;Promotion Category;Promotion Type
+1;No Discount;No Discount;No Discount
+2;Volume Discount 11 to 14;Reseller;Volume Discount
+3;Volume Discount 15 to 24;Reseller;Volume Discount
+4;Volume Discount 25 to 40;Reseller;Volume Discount
+5;Volume Discount 41 to 60;Reseller;Volume Discount
+6;Volume Discount over 60;Reseller;Volume Discount
+7;Mountain-100 Clearance Sale;Reseller;Discontinued Product
+8;Sport Helmet Discount-2002;Reseller;Seasonal Discount
+9;Road-650 Overstock;Reseller;Excess Inventory
+10;Mountain Tire Sale;Customer;Excess Inventory
+11;Sport Helmet Discount-2003;Reseller;Seasonal Discount
+12;LL Road Frame Sale;Reseller;Excess Inventory
+13;Touring-3000 Promotion;Reseller;New Product
+14;Touring-1000 Promotion;Reseller;New Product
+15;Half-Price Pedal Sale;Customer;Seasonal Discount
+16;Mountain-500 Silver Clearance Sale;Reseller;Discontinued Product
